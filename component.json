@@ -1,0 +1,15 @@
+{
+    "name": "contraption"
+  , "repo": "qualiancy/contraption"
+  , "version": "0.0.0"
+  , "description": "Finite State Machines for node.js and the browser."
+  , "license": "MIT"
+  , "keywords": [
+    ]
+  , "main": "lib/contraption.js"
+  , "scripts": [
+        "lib/contraption.js"
+    ]
+  , "dependencies": {}
+  , "development": {}
+}
