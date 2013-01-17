@@ -18,6 +18,9 @@
       "test": "make test"
     }
   , "dependencies": {
+        "drip": "1.1.x"
+      , "sherlock": "*"
+      , "tea-inherits": "0.1.x"
     }
   , "devDependencies": {
         "chai": "*"
