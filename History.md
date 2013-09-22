@@ -1,4 +1,15 @@
 
+0.2.0 / 2013-09-22 
+==================
+
+ * lib: remove unused deps
+ * pkg: clean up deps
+ * Merge branch 'refactor/next'
+ * test: machines
+ * refactor: primary lib
+ * deps: updates
+ * refactor
+
 0.1.0 / 2013-01-17 
 ==================
 
