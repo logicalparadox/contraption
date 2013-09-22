@@ -1,10 +1,12 @@
 {
     "name": "contraption"
-  , "version": "0.1.0"
+  , "version": "0.2.0"
   , "description": "Finite State Machines for node.js and the browser."
   , "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)"
   , "license": "MIT"
   , "keywords": [
+        "state machine"
+      , "fsm"
     ]
   , "repository": {
         "type": "git"
@@ -18,12 +20,10 @@
       "test": "make test"
     }
   , "dependencies": {
-        "breeze-nexttick": "0.1.x"
-      , "drip": "1.3.1"
+        "drip": "1.3.1"
       , "facet": "0.4.x"
       , "sherlock": "*"
       , "tea-extend": "0.2.x"
-      , "tea-inherits": "0.1.x"
       , "tea-type": "0.1.x"
     }
   , "devDependencies": {
