@@ -1,36 +1,34 @@
 {
-    "name": "contraption"
-  , "version": "0.2.1"
-  , "description": "Finite State Machines for node.js and the browser."
-  , "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)"
-  , "license": "MIT"
-  , "keywords": [
-        "state machine"
-      , "fsm"
-    ]
-  , "repository": {
-        "type": "git"
-      , "url": "git@github.com:qualiancy/contraption.git"
-    }
-  , "engines": {
-      "node": "*"
-    }
-  , "main": "./index"
-  , "scripts": {
-      "test": "make test"
-    }
-  , "dependencies": {
-        "drip": "1.3.1"
-      , "facet": "0.4.x"
-      , "sherlock": "*"
-      , "tea-extend": "0.2.x"
-      , "tea-type": "0.1.x"
-    }
-  , "devDependencies": {
-        "chai": "*"
-      , "chai-spies": "*"
-      , "component": "*"
-      , "mocha": "*"
-      , "mocha-phantomjs": "*"
-    }
+  "name": "contraption",
+  "version": "0.2.1",
+  "description": "Finite State Machines for node.js and the browser.",
+  "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)",
+  "license": "MIT",
+  "keywords": [
+    "state machine",
+    "fsm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:qualiancy/contraption.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "main": "./index",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "dragonfly": "^1.0.0",
+    "drip": "^1.4.0",
+    "params": "^0.1.0",
+    "sherlock": "*",
+    "type-detect": "^0.1.2"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "chai-spies": "*",
+    "mocha": "*"
+  }
 }
