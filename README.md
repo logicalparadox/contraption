@@ -1,6 +1,6 @@
 # contraption
 
-> Finite State Machines for node.js and the browser.
+> Finite State Machines for Node.js.
 
 ## Installation
 
@@ -9,12 +9,6 @@
 `contraption` is available on [npm](http://npmjs.org).
 
     $ npm install contraption
-
-### Component
-
-`contraption` is available as a [component](https://github.com/component/component).
-
-    $ component install qualiancy/contraption
 
 ## License
 
