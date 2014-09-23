@@ -23,7 +23,6 @@
     "dragonfly": "^1.0.0",
     "drip": "^1.4.0",
     "params": "^0.1.0",
-    "sherlock": "*",
     "type-detect": "^0.1.2"
   },
   "devDependencies": {
