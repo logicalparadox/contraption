@@ -1,6 +1,6 @@
 {
   "name": "contraption",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "Finite State Machines for node.js and the browser.",
   "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)",
   "license": "MIT",

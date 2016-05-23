@@ -1,4 +1,14 @@
 
+1.0.0 / 2016-05-23
+==================
+
+  * machine: allow repeatable transitions
+  * machine: allow external transition to error state
+  * machine: emit spec.during event
+  * clean: support files
+  * readme: clean
+  * refactor: api
+
 0.2.1 / 2013-09-30 
 ==================
 
