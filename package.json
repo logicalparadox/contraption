@@ -2,7 +2,7 @@
   "name": "contraption",
   "version": "1.0.0",
   "description": "Finite State Machines for node.js and the browser.",
-  "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)",
+  "author": "Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com)",
   "license": "MIT",
   "keywords": [
     "state machine",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:qualiancy/contraption.git"
+    "url": "git@github.com:logicalparadox/contraption.git"
   },
   "engines": {
     "node": "*"
